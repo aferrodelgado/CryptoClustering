@@ -38,6 +38,10 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
   - Set the x-axis as "price_change_percentage_24h" and the y-axis as "price_change_percentage_7d".
   - Color the graph points with the labels found using K-means.
   - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
+    <br><br>
+    <img width="650" alt="Screenshot 2024-12-05 at 10 03 25 AM" src="https://github.com/user-attachments/assets/a64f3262-4697-4b00-83f2-ea6943ec1ec9">
+    <br><br>
+
  
 **Optimize Clusters with Principal Component Analysis**
 

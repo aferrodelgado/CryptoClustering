@@ -86,7 +86,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
     <img width="773" alt="Screenshot 2024-12-06 at 8 40 16 AM" src="https://github.com/user-attachments/assets/fd8421f1-4864-46a1-bc68-f6bd88ab1911">
     <br><br>
 - Answer the following question:
-  - What is the impact of using fewer features to cluster the data using K-Means?
-    -We can conclude that we can use less features and get a similar performance to the original model since we can clearly identify the cluster segments in both cases.
+  What is the impact of using fewer features to cluster the data using K-Means?
+    - We can conclude that we can use less features and get a similar performance to the original model since we can clearly identify the cluster segments in both cases.
 
 

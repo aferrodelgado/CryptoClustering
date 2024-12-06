@@ -39,7 +39,7 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
   - Color the graph points with the labels found using K-means.
   - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
     <br><br>
-    <img width="650" alt="Screenshot 2024-12-05 at 10 03 25 AM" src="https://github.com/user-attachments/assets/a64f3262-4697-4b00-83f2-ea6943ec1ec9">
+    <img width="782" alt="Screenshot 2024-12-06 at 8 40 35 AM" src="https://github.com/user-attachments/assets/951bc447-c9bb-462b-8935-2ca0662d03a3">
     <br><br>
 
  
@@ -82,6 +82,9 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
   - Set the x-axis as "PC1" and the y-axis as "PC2".
   - Color the graph points with the labels found using K-means.
   - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
+    <br><br>
+    <img width="773" alt="Screenshot 2024-12-06 at 8 40 16 AM" src="https://github.com/user-attachments/assets/fd8421f1-4864-46a1-bc68-f6bd88ab1911">
+    <br><br>
 - Answer the following question:
   - What is the impact of using fewer features to cluster the data using K-Means?
 
